@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/zeeshan.github.io/static/css/main.4ae8dcab.css",
-    "main.js": "/zeeshan.github.io/static/js/main.6dbf7646.js",
-    "static/js/415.4d6acbeb.chunk.js": "/zeeshan.github.io/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/zeeshan.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Zeeshan-Qureshi-MS-Scholar.pdf": "/zeeshan.github.io/static/media/Zeeshan-Qureshi-MS-Scholar.f946139dcd506eab5938.pdf",
-    "static/media/logo.png": "/zeeshan.github.io/static/media/logo.2098be63678010172c5f.png",
-    "static/media/avatar.png": "/zeeshan.github.io/static/media/avatar.8854ddba9cef48bb192a.png",
-    "static/media/home-main.svg": "/zeeshan.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/zeeshan.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/pioneer_auctions.png": "/zeeshan.github.io/static/media/pioneer_auctions.08d0e2dd3ae7967e4503.png",
-    "static/media/braintree_health.jpg": "/zeeshan.github.io/static/media/braintree_health.d80f280579c7dab420ab.jpg",
-    "static/media/home-bg.jpg": "/zeeshan.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/listit.png": "/zeeshan.github.io/static/media/listit.9e4f742b9d2236725bba.png",
-    "static/media/aqg_now.png": "/zeeshan.github.io/static/media/aqg_now.ebae0c365430d8f1cd35.png",
-    "static/media/pre.svg": "/zeeshan.github.io/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/zeeshan.github.io/index.html",
-    "main.4ae8dcab.css.map": "/zeeshan.github.io/static/css/main.4ae8dcab.css.map",
-    "main.6dbf7646.js.map": "/zeeshan.github.io/static/js/main.6dbf7646.js.map",
-    "415.4d6acbeb.chunk.js.map": "/zeeshan.github.io/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/zeeshan.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.7059ba22.css",
+    "main.js": "/portfolio/static/js/main.8a645da5.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Zeeshan-Qureshi-MS-Scholar.pdf": "/portfolio/static/media/Zeeshan-Qureshi-MS-Scholar.f946139dcd506eab5938.pdf",
+    "static/media/logo.png": "/portfolio/static/media/logo.2098be63678010172c5f.png",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.8854ddba9cef48bb192a.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/pioneer_auctions.png": "/portfolio/static/media/pioneer_auctions.08d0e2dd3ae7967e4503.png",
+    "static/media/braintree_health.jpg": "/portfolio/static/media/braintree_health.d80f280579c7dab420ab.jpg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/listit.png": "/portfolio/static/media/listit.9e4f742b9d2236725bba.png",
+    "static/media/aqg_now.png": "/portfolio/static/media/aqg_now.ebae0c365430d8f1cd35.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.7059ba22.css.map": "/portfolio/static/css/main.7059ba22.css.map",
+    "main.8a645da5.js.map": "/portfolio/static/js/main.8a645da5.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ae8dcab.css",
-    "static/js/main.6dbf7646.js"
+    "static/css/main.7059ba22.css",
+    "static/js/main.8a645da5.js"
   ]
 }
